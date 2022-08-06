@@ -1,0 +1,16 @@
+[
+    {
+        "brand": "BMW",
+        "model": "X5",
+        "type": "auto",
+        "gas_tank_size": "15",
+        "current_fuel_level": "12"
+    },
+    {
+        "brand": "Toyota",
+        "model": "Camry",
+        "type": "auto",
+        "gas_tank_size": "100",
+        "current_fuel_level": "20"
+    }
+]
